@@ -43,7 +43,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) fil
 - [FontAwesomeSwift](https://github.com/thii/FontAwesome.swift) - Used for displaying social media icons.
 
 # Screenshots
-<img src="https://drive.google.com/file/d/1v0rBMJS4MuZOC6N4kE5JUYGJVugHgsJ0/view?usp=drive_link" 
+<img src="https://github.com/IPH-Technologies-Pvt-Ltd/Card-Swipe-iOS/tree/main" 
      width="200" 
      height="400"/>
 
