@@ -1,4 +1,5 @@
 # Card-Swipe-iOS
+[![Swift](https://img.shields.io/badge/swift-%2320232a.svg?style=for-the-badge&logo=swift&logoColor=%23F05138)](https://swift.org/)
 
 
 Card Swipe is a social media application that allows users to interact with pictures by swiping left or right. Swiping left indicates liking a picture, while swiping right indicates disliking a picture. The application provides visual feedback for each action by displaying a checkmark with a green background for likes and a cross with a red background for dislikes.
